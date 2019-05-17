@@ -7,4 +7,4 @@ L = [
 ]
 
 print L[2][3]
-print L[0][1]
+print L[2][2]
