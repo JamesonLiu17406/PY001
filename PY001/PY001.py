@@ -6,4 +6,4 @@ L = [
     ['Adam', 'Bart', 'Lisa']
 ]
 
-print L[1][2]
+print L[2][2]
