@@ -8,3 +8,4 @@ L = [
 
 print L[2][3]
 print L[0][0]
+print L[0][1]
